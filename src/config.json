@@ -1,0 +1,6 @@
+{
+    "images":["png","jpg","jpeg","gif"],
+    "videos":["mkv","mp4","avi"],
+    "packages":["exe","msi"],
+    "documents":["pdf","doc","docx","txt","md"]
+}
